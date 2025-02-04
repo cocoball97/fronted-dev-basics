@@ -18,3 +18,9 @@ console.log(k)
 // error: undefined error
 // console.lo;
 // g('hello world')
+
+function f(x){
+    return x * 10;
+}
+
+console.log(f(10));
